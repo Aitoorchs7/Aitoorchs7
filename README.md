@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Automation Animation" width="250"/>
+  <img src="https://raw.githubusercontent.com/gist/Aitor-Chicano/assets/main/nodes_animation.gif" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eGZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R&ep=v1_gifs_search&rid=giphy.gif&ct=g'" alt="Conceptual Automation Nodes" width="250"/>
 
   <h1>Aitor Chicano Selles (Chicano)</h1>
   
