@@ -1,6 +1,8 @@
 <div align="center">
   
-  ![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/44190023/205405064-5aa93cb8-34b2-4407-9231-b3e292a548a4.gif)
+  <div align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzRnd3JicHoxeHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZiZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="300" />
+  </div>
 
   <h1>Aitor Chicano Selles (Chicano)</h1>
   
