@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Automation Animation" width="400"/>
+  ![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/44190023/205405064-5aa93cb8-34b2-4407-9231-b3e292a548a4.gif)
 
   <h1>Aitor Chicano Selles (Chicano)</h1>
   
