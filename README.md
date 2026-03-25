@@ -53,6 +53,23 @@ Estimación del progreso y actividad en repositorios basada en el historial de c
 
 </div>
 
+--- 
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Aitoorchs7/Aitoorchs7/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Aitoorchs7/Aitoorchs7/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Aitoorchs7 contribution snake"
+    src="https://raw.githubusercontent.com/Aitoorchs7/Aitoorchs7/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ---
 
 ### 📂 Desarrollo Académico y Pruebas de Concepto
