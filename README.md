@@ -46,7 +46,7 @@ Actualmente adquiriendo competencias y desarrollando pruebas de concepto con las
 ### 📊 Telemetría y Actividad
 
 Estimación del progreso y actividad en repositorios basada en el historial de confirmaciones (*commits*). 
-*Nota: Las métricas se actualizan dinámicamente. El diseño utiliza una paleta oscura con textos en beis (`#F5F5DC`) para mantener la coherencia visual.*
+
 
 <div align="center">
   
