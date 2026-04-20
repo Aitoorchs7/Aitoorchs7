@@ -78,4 +78,4 @@ Estimación del progreso y actividad en repositorios basada en el historial de c
 
 El código alojado en este perfil corresponde principalmente a:
 * **Asignaciones del Grado Superior de DAM:** Implementaciones orientadas a la asimilación de estructuras de datos, algoritmia y programación orientada a objetos.
-* **Automatizaciones con n8n:** Nodos y flujos de trabajo en fase de investigación para la integración de APIs y optimización de tareas repetitivas.
+* **Automatizaciones con agentes y n8n:** Nodos y flujos de trabajo en fase de investigación para la integración de APIs y optimización de tareas repetitivas.
