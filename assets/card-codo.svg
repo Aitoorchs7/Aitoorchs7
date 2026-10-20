@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 196" width="830" height="196" role="img" aria-label="Proyecto 3: Codo, app de concentración en directo">
+<defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#8A8F98"/></linearGradient></defs>
+<rect x="1" y="1" width="828" height="194" rx="12" fill="#0A0A0C" stroke="#2A2A2F" stroke-width="1.5"/>
+<rect x="0" y="26" width="5" height="144" fill="#3B6BFF"/>
+<text x="30" y="64" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="40" font-weight="800" fill="#44444B">03</text>
+<text x="92" y="60" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="24" font-weight="700" fill="#F4F4F5">Codo</text>
+<rect x="713" y="34" width="93" height="26" rx="4" fill="#16161A" stroke="#3A3A41"/>
+<text x="759.5" y="51" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11" letter-spacing="1.2" fill="#9AA0AA">EN DISEÑO</text>
+<text x="92" y="98" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#B4B8C0">App de concentración en directo: salas donde desconocidos cuentan qué</text>
+<text x="92" y="119" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#B4B8C0">van a hacer y lo hacen acompañados. Mi proyecto integrado de DAM,</text>
+<text x="92" y="140" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#B4B8C0">con una segunda idea para después: Pacto, retos de hábitos en grupo.</text>
+<rect x="92.5" y="150.5" width="80" height="27" rx="6" fill="#111114" stroke="#3A3A41"/><text x="132.5" y="168.68" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="500" fill="#E4E4E7">Flutter</text>
+<rect x="183.5" y="150.5" width="56" height="27" rx="6" fill="#111114" stroke="#3A3A41"/><text x="211.5" y="168.68" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="500" fill="#E4E4E7">Dart</text>
+<rect x="250.5" y="150.5" width="165" height="27" rx="6" fill="#111114" stroke="#3A3A41"/><text x="333.0" y="168.68" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="500" fill="#E4E4E7">Proyecto integrado</text>
+</svg>
