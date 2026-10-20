@@ -1,16 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 196" width="830" height="196" role="img" aria-label="Proyecto 2: recepcionista de voz con IA">
-<defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#8A8F98"/></linearGradient></defs>
-<rect x="1" y="1" width="828" height="194" rx="12" fill="#0A0A0C" stroke="#2A2A2F" stroke-width="1.5"/>
-<rect x="0" y="26" width="5" height="144" fill="#3B6BFF"/>
-<text x="30" y="64" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="40" font-weight="800" fill="#44444B">02</text>
+<defs><radialGradient id="g" cx="0" cy="0" r="1"><stop offset="0" stop-color="#FF5F57" stop-opacity=".22"/><stop offset="1" stop-color="#FF5F57" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="828" height="194" rx="12" fill="#0A0A0C"/>
+<rect x="1" y="1" width="420" height="194" rx="12" fill="url(#g)"/>
+<rect x="1" y="1" width="828" height="194" rx="12" fill="none" stroke="#FF5F57" stroke-opacity=".45" stroke-width="1.5"/>
+<rect x="0" y="26" width="5" height="144" fill="#FF5F57"/>
+<text x="30" y="64" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="40" font-weight="800" fill="#FF5F57">02</text>
 <text x="92" y="60" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="24" font-weight="700" fill="#F4F4F5">Recepcionista de voz</text>
-<rect x="647" y="34" width="159" height="26" rx="4" fill="#16161A" stroke="#3A3A41"/>
-<text x="726.5" y="51" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11" letter-spacing="1.2" fill="#9AA0AA">PRUEBA DE CONCEPTO</text>
+<rect x="647" y="34" width="159" height="26" rx="4" fill="#FF5F57" fill-opacity=".14" stroke="#FF5F57" stroke-opacity=".75"/>
+<text x="726.5" y="51" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11" letter-spacing="1.2" fill="#FF5F57">PRUEBA DE CONCEPTO</text>
 <text x="92" y="98" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#B4B8C0">Asistente que atiende las llamadas de una clínica: resuelve dudas y</text>
 <text x="92" y="119" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#B4B8C0">agenda citas en Google Calendar. Sin alucinaciones: si falta un dato,</text>
 <text x="92" y="140" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#B4B8C0">vuelve a preguntar al paciente y nunca revela información interna.</text>
-<rect x="92.5" y="150.5" width="134" height="27" rx="6" fill="#111114" stroke="#3A3A41"/><text x="159.5" y="168.68" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="500" fill="#E4E4E7">LiveKit Agents</text>
-<rect x="237.5" y="150.5" width="87" height="27" rx="6" fill="#111114" stroke="#3A3A41"/><text x="281.0" y="168.68" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="500" fill="#E4E4E7">Deepgram</text>
-<rect x="335.5" y="150.5" width="72" height="27" rx="6" fill="#111114" stroke="#3A3A41"/><text x="371.5" y="168.68" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="500" fill="#E4E4E7">Gemini</text>
-<rect x="418.5" y="150.5" width="158" height="27" rx="6" fill="#111114" stroke="#3A3A41"/><text x="497.5" y="168.68" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="500" fill="#E4E4E7">Sheets + Calendar</text>
+<rect x="92.5" y="150.5" width="134" height="27" rx="6" fill="#FF5F57" fill-opacity=".12" stroke="#FF5F57" stroke-opacity=".7"/><text x="159.5" y="168.68" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="500" fill="#F4F4F5">LiveKit Agents</text>
+<rect x="237.5" y="150.5" width="87" height="27" rx="6" fill="#FF5F57" fill-opacity=".12" stroke="#FF5F57" stroke-opacity=".7"/><text x="281.0" y="168.68" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="500" fill="#F4F4F5">Deepgram</text>
+<rect x="335.5" y="150.5" width="72" height="27" rx="6" fill="#FF5F57" fill-opacity=".12" stroke="#FF5F57" stroke-opacity=".7"/><text x="371.5" y="168.68" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="500" fill="#F4F4F5">Gemini</text>
+<rect x="418.5" y="150.5" width="158" height="27" rx="6" fill="#FF5F57" fill-opacity=".12" stroke="#FF5F57" stroke-opacity=".7"/><text x="497.5" y="168.68" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="500" fill="#F4F4F5">Sheets + Calendar</text>
 </svg>
