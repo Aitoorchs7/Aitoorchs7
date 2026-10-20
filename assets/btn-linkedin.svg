@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 48" width="230" height="48" role="img" aria-label="LinkedIn">
+<defs></defs>
+<rect x="1" y="1" width="228" height="46" rx="8" fill="#0A0A0C" stroke="#3A3A41" stroke-width="1.5"/>
+<rect x="1" y="1" width="5" height="46" rx="2" fill="#3B82FF"/>
+<text x="24" y="30" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">LinkedIn</text>
+<text x="210" y="30" text-anchor="end" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12" fill="#9AA0AA">conectemos</text>
+</svg>

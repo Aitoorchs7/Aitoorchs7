@@ -6,9 +6,17 @@
 
 <br>
 
-Tengo 19 años, estudio 2º de **Desarrollo de Aplicaciones Multiplataforma** y construyo **recepcionistas con IA para clínicas dentales**: bots que atienden a los pacientes por WhatsApp y por teléfono. Trabajo en ello con **CobaltIA**, nuestra agencia de IA, y a la vez desarrollo mi propia app en Flutter.
+Tengo 19 años, estudio 2º de **Desarrollo de Aplicaciones Multiplataforma** y construyo **recepcionistas con IA para clínicas dentales**: asistentes que atienden a los pacientes por WhatsApp y por teléfono. Lo hago con **[CobaltIA](https://cobaltia.pages.dev)**, nuestra agencia de IA, y a la vez desarrollo mi propia app en Flutter.
 
 Aquí documento lo que construyo, lo que aprendo por el camino y hacia dónde voy.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aitor-chicano-selles-052a993a7/"><img src="assets/btn-linkedin.svg" alt="Mi perfil de LinkedIn" height="48"></a>
+&nbsp;&nbsp;
+<a href="https://cobaltia.pages.dev"><img src="assets/btn-cobaltia.svg" alt="CobaltIA, agencia de IA" height="48"></a>
+
+</div>
 
 <br>
 
@@ -18,7 +26,7 @@ Aquí documento lo que construyo, lo que aprendo por el camino y hacia dónde vo
 
 <img src="assets/card-whatsapp.svg" alt="Recepción IA Dental por WhatsApp" width="100%">
 <br>
-<img src="assets/card-voz.svg" alt="Recepcionista de voz con IA" width="100%">
+<img src="assets/card-voz.svg" alt="Recepción IA Dental por voz" width="100%">
 <br>
 <img src="assets/card-codo.svg" alt="Codo, app de concentración en directo" width="100%">
 
@@ -61,8 +69,3 @@ Aquí documento lo que construyo, lo que aprendo por el camino y hacia dónde vo
 <img src="assets/footer.svg" alt="Aprendo construyendo en público" width="100%">
 
 </div>
-
-<!--
-  Para añadir enlaces de contacto, pega aquí tu LinkedIn y la web de CobaltIA
-  en una línea centrada, por ejemplo: [LinkedIn](URL) · [CobaltIA](URL)
--->
